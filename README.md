@@ -31,7 +31,7 @@ This project is a C++ implementation of the classic Connect Four game using the 
 3.**Compile the Code**
     Ensure you have a C++ compiler installed. Use the following command to compile the code:
 
-    ```bash
+
     g++ -o connect_four main.cpp -lsfml-graphics -lsfml-window -lsfml-system
 4.**Run the Game**
 
