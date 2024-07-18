@@ -29,7 +29,6 @@ This project is a C++ implementation of the classic Connect Four game using the 
    git clone <repository-url>
    cd connect-four
 3.**Compile the Code**
-
     Ensure you have a C++ compiler installed. Use the following command to compile the code:
 
     ```bash
